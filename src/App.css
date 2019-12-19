@@ -1,0 +1,15 @@
+.bg-card{
+  background-image: url('./card.jpg');
+  width: 600px;
+  height: 400px;
+ border-radius: 10px;
+}
+.cont{
+  margin: 8% 30%;
+}
+p{
+  color: white;
+}
+.contcard{
+padding: 200px 10px 3px 10px;
+}
